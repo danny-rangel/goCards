@@ -6,7 +6,7 @@ func main() {
 
 	cards := newDeckFromFile("my_cards")
 
-	// cards.print()
+	cards.print()
 
 	fmt.Println("After shuffle ---")
 
